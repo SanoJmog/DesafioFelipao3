@@ -46,7 +46,9 @@ Bons estudos 😉
 
 1ª Tratativa:
     está funcionando, porem com Let, agora quer alterar para que o ususario possa inserir seus dados.
+
 2ª Tratativa:
     Consegui fazer o que eu queria, agora quero colocar um corte na idade caso não seja NUMBER.
+
 3ª Tratativa:
     Ficou como eu queria, espero que gostem!
